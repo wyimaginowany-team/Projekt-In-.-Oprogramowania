@@ -1,1 +1,4 @@
-Bla bla bla
+Autorzy:
+Mateusz Miotk
+Sylwia Kaczmarczyk
+Michał Kulesz
