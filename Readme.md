@@ -1,3 +1,5 @@
+Projekt na przedmiot Inżynieria Oprogramowania
+
 Nazwa projektu: System rezerwacji hoteli.
 
 Autorzy:
