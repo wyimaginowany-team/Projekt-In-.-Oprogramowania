@@ -1,4 +1,4 @@
-Projekt na przedmiot Inżynieria Oprogramowania
+Projekt na przedmiot Inżynieria Oprogramowania.
 
 Nazwa projektu: System rezerwacji hoteli.
 
